@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary       = "Creates a fake speedtest image"
   spec.description   = "Given custom stats, a fake speedtest image is created. A URL to the image is provided to stdout."
   spec.homepage      = ""
-  spec.license       = "MIT"
+  spec.license       = "GPL-2"
 
   spec.files         = `git ls-files -z`.split("\x0")
   spec.executables   = spec.files.grep(%r{^bin/}) { |f| File.basename(f) }
