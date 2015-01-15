@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = FakeSpeedtest::VERSION
   spec.authors       = ["khalilfazal"]
   spec.email         = ["khalil.fazal.0@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = "Creates a fake speedtest image"
+  spec.description   = "Given custom stats, a fake speedtest image is created. A URL to the image is provided to stdout."
   spec.homepage      = ""
   spec.license       = "MIT"
 
