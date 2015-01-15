@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["khalil.fazal.0@gmail.com"]
   spec.summary       = "Creates a fake speedtest image"
   spec.description   = "Given custom stats, a fake speedtest image is created. A URL to the image is provided to stdout."
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/khalilfazal/fake-speedtest"
   spec.license       = "GPL-2"
 
   spec.files         = `git ls-files -z`.split("\x0")

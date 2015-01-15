@@ -1,18 +1,10 @@
 # FakeSpeedtest
 
-TODO: Write a gem description
+Given custom stats, a fake speedtest image is created. A URL to the image is provided to stdout.
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-    gem 'fakeSpeedtest'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
+Install it yourself as:
 
     $ gem install fakeSpeedtest
 
